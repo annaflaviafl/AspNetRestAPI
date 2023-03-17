@@ -33,3 +33,8 @@ C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api
 C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Application.pdb
 C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
 C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
