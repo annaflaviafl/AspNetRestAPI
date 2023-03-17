@@ -1,0 +1,15 @@
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\DCPDTI\Desktop\Estudos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
